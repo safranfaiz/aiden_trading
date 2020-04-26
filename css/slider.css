@@ -6,7 +6,7 @@
     display: none!important
 }
 
-@media (max-width:500px) {
+@media (max-width:992px) {
     .swiper-container.swiper-slider.swiper-slider-1.desktopview {
         display: none!important
     }
